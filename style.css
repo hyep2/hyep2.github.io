@@ -1,0 +1,38 @@
+body {
+  background-image: url(file:///Users/hyewonpark/Desktop/Screen%20Shot%202022-02-07%20at%2010.02.00%20AM.png);
+  background-size: 1000px
+}
+
+h1 {
+  line-height: '100px';
+  font-weight: bold;
+  font-family: 'Festive', cursive;
+  font-size: xx-large;
+  text-align: center;
+  color: pink
+}
+
+h2 {
+  font-family: 'Festive'cursive;
+  border-width: medium;
+  border-color: pink;
+  text-align: center;
+}
+
+/* .lists {
+  border-style: solid;
+  border-width: medium;
+  border-color: beige;
+} */
+
+
+
+.sepBox {
+  width: 600px;
+  padding: 50px;
+  border: 5px solid black;
+  background-image: url(https://thumbs.dreamstime.com/z/cute-seamless-bunny-background-pink-rabbit-106698948.jpg);
+  background-size: 300px;
+
+
+}
